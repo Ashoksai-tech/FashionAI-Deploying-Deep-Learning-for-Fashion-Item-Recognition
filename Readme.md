@@ -1,4 +1,4 @@
-# 👗 Fashion MNIST Classification Model
+## 👗 Fashion MNIST Classification Model
 
 ## 📖 Overview
 
